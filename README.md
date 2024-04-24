@@ -1,6 +1,6 @@
 Just a layman program for students who are short on attendance.
 
-Enter: 
+Input: 
   - No. of hours you've attended.
   - Total no. of hours.
   - The required percentage you want to reach
